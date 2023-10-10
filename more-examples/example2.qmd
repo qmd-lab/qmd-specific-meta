@@ -1,0 +1,9 @@
+---
+title: "Example 1"
+author: Andrew
+date: 5/5/25
+filters:
+ - ../qmd-specific-meta
+---
+
+Here is an example of a document with an `author` and `date` field that gets overwritten by the metadata found in `_metadata.yml`.

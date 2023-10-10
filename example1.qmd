@@ -1,0 +1,9 @@
+---
+title: "Example 1"
+date: 5/5/25
+filters:
+ - qmd-specific-meta
+---
+
+Here is a document with a `date` field in the document YAML set to `5/5/25` that gets overwritten using the metadata found in `_metadata.yml`. There is no `author` field in the document YAML. That is also provided via `_metadata.yml`.
+

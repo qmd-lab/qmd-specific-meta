@@ -1,9 +1,9 @@
 ---
-title: "Example 1"
-author: Andrew
+title: "Example 2"
 date: 5/5/25
+format: pdf
 filters:
- - ../qmd-specific-meta
+ - qmd-specific-meta
 ---
 
-Here is an example of a document with an `author` and `date` field that gets overwritten by the metadata found in `_metadata.yml`.
+Here is an example of a document that is in a project subdirectory that gets its date overwritten by what is found in `_quarto.yml` (here in the doc the date is set to 5/5/25).

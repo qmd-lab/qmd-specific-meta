@@ -13,11 +13,11 @@ If you're using version control, you will want to check in this directory.
 
 ## Using
 
-Creating the glossary consists of three steps:
+Creating this filter consists of two steps:
 
 1. Add document meta data under the `qmd-specific-meta` key in your `_quarto.yml` file. See the `_quarto.yml` in this repo for an example.
 2. Activate the filter on a given document. See `example1.qmd` for an example.
 
 ## Example
 
-See [example1.qmd](example1.qmd) and <more-examples/example2.qmd>.
+See [example1.qmd](example1.qmd) and [more-examples/example2.qmd](more-examples/example2.qmd).

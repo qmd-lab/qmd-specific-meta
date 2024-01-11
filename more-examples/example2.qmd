@@ -1,7 +1,6 @@
 ---
 title: "Example 2"
 date: 5/5/25
-format: pdf
 filters:
  - qmd-specific-meta
 ---
